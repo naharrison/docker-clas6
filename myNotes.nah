@@ -1,0 +1,3 @@
+must first do: sudo systemctl start docker
+what's the deal with cernlibs?
+why does it pull from docker.io/tylern4/rootv5 ?
